@@ -1,0 +1,7 @@
+application of Machine Learning models in predicting travel time between two
+locations from a given dataset. It also investigates the use of genetic algorithms to find the optimal
+traveling route given a set of locations. In this project, we used the NYC Yellow Cab trip dataset.
+Various regression algorithms were applied trying to predict a continuous variable (travel time),
+such as linear regression, decision trees, random forest and XGB regressors. Evaluation metrics like mean absolute error, mean squared error,
+and R-squared used to evaluate its performance. Also, a genetic algorithm was used including population initialization, 
+crossover and mutation probabilities to construct the optimal traveling route given a set of locations and a starting location.
